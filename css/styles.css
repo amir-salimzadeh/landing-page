@@ -53,6 +53,7 @@ header{
     border-radius:5px;
     font-weight:bold;
     cursor:pointer;
+    font-size:1.2rem;
 }
 .hero-image p{
     color:#E5E7EB;
